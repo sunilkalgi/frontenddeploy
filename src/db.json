@@ -1,0 +1,79 @@
+{
+  "headingList": [
+    "Thinking",
+    "Impact",
+    "Ecosystem",
+    "Perspective",
+    "About us",
+    "Explore"
+  ],
+  "footerList": [
+    "Societal hour",
+    "Events",
+    "Learning courses",
+    "Blog",
+    "Podcast"
+  ],
+  "HeadingList": [
+    {
+      "id": "1",
+      "name": "IMPACT",
+      "link": "/impact",
+      "options": [
+        {
+          "name": "Frames",
+          "link": "/impact/impact-frames"
+        },
+        {
+          "name": "Exponents",
+          "link": "/impact/impact-exponents"
+        },
+        {
+          "name": "Platforms",
+          "link": "/impact/impact-platform"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "ECOSYSTEM",
+      "link": "/ecosystem"
+    },
+    {
+      "id": "3",
+      "name": "PERSPECTIVE",
+      "link": "/perspective",
+      "options": [
+        {
+          "name": "Blog",
+          "link": "/blogs"
+        },
+        {
+          "name": "muse",
+          "link": "https://muse.societalthinking.org/"
+        },
+        {
+          "name": "podcast",
+          "link": "/perspective/podcast"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "ABOUT US",
+      "link": "/aboutus"
+    },
+    {
+      "id": "5",
+      "name": "EXPLORE",
+      "link": "/explore",
+      "button": "EXPLORE"
+    },
+    {
+      "id": "6",
+      "name": "SEARCH",
+      "link": "/search?page=1&search=",
+      "icon": "search"
+    }
+  ]
+}
