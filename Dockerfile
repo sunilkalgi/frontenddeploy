@@ -1,7 +1,7 @@
 FROM node:alpine
 WORKDIR /frontend
 COPY . .
-RUN npm install
+RUN npm install -g npm@10.2.0
 CMD ["npm","start"]
 
 # FROM nginx
