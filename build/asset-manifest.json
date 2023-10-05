@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/frontenddeploy/static/js/main.a0082024.js",
+    "static/media/Societal-Thinking-Logo-1.png": "/frontenddeploy/static/media/Societal-Thinking-Logo-1.f58d1c2addaca519682f.png",
+    "index.html": "/frontenddeploy/index.html",
+    "main.a0082024.js.map": "/frontenddeploy/static/js/main.a0082024.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a0082024.js"
+  ]
+}
