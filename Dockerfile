@@ -1,5 +1,5 @@
 
-FROM node:19.6.0-alpine
+FROM node:18.17.1-alpine
 # Set the working directory within the container
 WORKDIR /website
 
@@ -7,7 +7,7 @@ WORKDIR /website
 COPY package*.json ./
 
 # Install dependencies
-RUN npm install --legacy-peer-deps
+RUN npm install
 
 # Copy the rest of the application code to the container
 COPY . .
